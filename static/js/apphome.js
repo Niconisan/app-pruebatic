@@ -1,6 +1,6 @@
-function registerpage(){
-    alert("boton de consultar clickeado")
+function registerpague(){
+    alert("Boton de registrar clickeado")
 }
-function consultpage(){
-    alert("boton de consultar clickeado")
+function consultpaguepague(){
+    alert("Boton de consulta clickeado")
 }
