@@ -10,10 +10,9 @@ button {
     font-size: 20px;
     background-color: grey;
     color: black;
-    border-radius: 10px;
-    padding: 4px;
-    margin-left: 0.3%;
-    margin-right: 0.3%;
+    border-radius: 20px;
+    padding: 0.6%;
+    margin-left: 0.6%;
 }
 form{
     text-align: center;
